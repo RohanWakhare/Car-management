@@ -1,1 +1,2 @@
 # Car-management
+This Vehicle Management System is in PHP and CSS. Talking about the features of the system, it contains the Admin and user sections. From here, the admin can view and edit the records of bookings and vehicles. Also, the admin can manage the drivers from the specific route. The design of this project is pretty simple so that the user won’t find any difficulties while working on it.
